@@ -2,7 +2,7 @@
 % the statistics and machine learning toolbox and the third-party
 % erpcca toolbox available at https://gitlab.com/christoph.reichert/erpcca
 % are required to run the script
-% data can be downloaded here: https://zenodo.org/records/TBA
+% data can be downloaded here: https://zenodo.org/records/22642125
 
 experimentID = 2; % 1 = degraded vision experiment (conditionIDs 0,1,2)
                   % 2 = binocular/monocular vision experiment (conditionIDs 3,4,5)
